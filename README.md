@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/riteshkapse/overlay/background-image/)](https://www.linkedin.com/in/riteshkapse/)
+
 
 <h1 align="center">Hi 👋, I'm Ritesh Kapse</h1>
 <h3 align="center">Passionate Self Driving Cars/Automotive Engineer.</h3>
