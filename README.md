@@ -1,13 +1,15 @@
-[![MasterHead](https://www.istockphoto.com/photo/modern-car-ai-evaluating-driving-conditions-and-street-elements-gm1383104602-443293850)](https://www.linkedin.com/in/riteshkapse/)
+[![MasterHead](https://giphy.com/gifs/coxQHKASG60HrHtvkt)](https://www.linkedin.com/in/riteshkapse/)
 
 <h1 align="center">Hi 👋, I'm Ritesh Kapse</h1>
 <h3 align="center">Passionate Self Driving Cars/Automotive Engineer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh0811&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh0811" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh0811" alt="ritesh0811" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Computer Vision, LLM's and Self Driving Cars End to End.**
 
