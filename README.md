@@ -11,7 +11,7 @@
   I am a Senior Development Engineer in Test with 10 years of experience in the Automotive industry, specializing in software testing and development. My expertise spans Python, C++, Machine Learning, Computer Vision, and Agile methodologies, complementing my work in advanced driving assistance systems. I leverage generative AI to enhance development efficiency and innovation, leading cross-functional teams to deliver customer-centric solutions.
 </p>
 
-- 🚀 **Explore my Interactive Portfolio:** For a comprehensive overview of my projects, skills, experience, and certifications, please visit my dedicated portfolio website: (https://ritesh0811.github.io/portfolio_automotive_cv/) (Replace with your actual hosted URL)
+- 🚀 **Explore my Interactive Portfolio:** For a comprehensive overview of my projects, skills, experience, and certifications, please visit my dedicated portfolio website: (https://ritesh0811.github.io/portfolio_automotive_cv/)
 
 - 🌱 I’m currently deepening my knowledge in **Computer Vision, LLMs, and End-to-End Self-Driving Systems.**
 
